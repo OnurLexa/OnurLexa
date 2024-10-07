@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur Lexa</h1>
-<h3 align="center">Desktop Applications Developer</h3>
+<h3 align="center">Cyber Security Student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
