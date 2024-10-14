@@ -10,11 +10,6 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 
 <br />
-
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
-
 <br />
 <br />
 <br />
@@ -28,12 +23,7 @@
  ![onurlexa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=onurlexa&theme=dark&hide_border=true)
  ![onurlexa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurlexa&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-[gmail]: mailto:demiribrahimtalha@gmail.com
-[flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
+[github]: https://github.com/OnurLexa/
 [python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
